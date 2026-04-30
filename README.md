@@ -1,7 +1,7 @@
 # Credit-Card-Fraud-Exploratory-Analysis
 Comprehensive Exploratory Data Analysis (EDA) of credit card transactions to identify fraud patterns. Features data cleaning, feature engineering (Age derivation), and merchant/category-level fraud trend analysis using Python and Matplotlib.
 
-## 📌 Overview
+##  Overview
 
 This project performs **in-depth exploratory data analysis (EDA)** on credit card transactions to uncover **fraud patterns, behavioral trends, and financial anomalies**.
 
@@ -10,7 +10,7 @@ The analysis helps in understanding:
 - Which categories and merchants are high-risk  
 - How fraud varies across regions and transaction amounts
 
-## 🎯 Objectives
+##  Objectives
 
 - Detect patterns in fraudulent transactions  
 - Analyze fraud distribution across multiple dimensions  
@@ -19,7 +19,7 @@ The analysis helps in understanding:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset used in this project contains detailed records of credit card transactions, including transaction amount, merchant details, category, location, and fraud labels.
 
@@ -27,7 +27,7 @@ Due to file size limitations, the dataset is not hosted directly in this reposit
 
 ---
 
-### 📥 Download Dataset
+###  Download Dataset
 
 <p align="center">
   <a href="https://docs.google.com/spreadsheets/d/1E_kGXha3y0vXW9JHRYnBQhI9dqeMxkL8Xi1j6jh9dtE/edit?usp=sharing" >
@@ -36,7 +36,7 @@ Due to file size limitations, the dataset is not hosted directly in this reposit
 </p>
 
 ---
-### 🔑 Dataset Details
+###  Dataset Details
 
 - **Type:** Transactional dataset (each row represents a single transaction)  
 - **Format:** `.xlsx`   
